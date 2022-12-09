@@ -13,3 +13,6 @@ C:\Users\muneer.pinjar\source\repos\NLogDemo\NLogDemo\NLogDemo\obj\Debug\net6.0\
 C:\Users\muneer.pinjar\source\repos\NLogDemo\NLogDemo\NLogDemo\obj\Debug\net6.0\ref\NLogDemo.dll
 C:\Users\muneer.pinjar\source\repos\NLogDemo\NLogDemo\NLogDemo\obj\Debug\net6.0\NLogDemo.pdb
 C:\Users\muneer.pinjar\source\repos\NLogDemo\NLogDemo\NLogDemo\obj\Debug\net6.0\NLogDemo.genruntimeconfig.cache
+C:\Users\muneer.pinjar\source\repos\NLogDemo\NLogDemo\NLogDemo\bin\Debug\net6.0\NLog.config
+C:\Users\muneer.pinjar\source\repos\NLogDemo\NLogDemo\NLogDemo\bin\Debug\net6.0\NLog.dll
+C:\Users\muneer.pinjar\source\repos\NLogDemo\NLogDemo\NLogDemo\obj\Debug\net6.0\NLogDemo.csproj.CopyComplete

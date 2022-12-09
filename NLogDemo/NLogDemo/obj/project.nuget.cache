@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "71N4BPvyCT5uGgTQMzqDTvhIRns4mWH9RNNaB6dfkGxK5bDOVghnZRXgklKuV0h1YYy8Oi/o0jQJf9jwAEQdPQ==",
+  "dgSpecHash": "ZVryimTsn20AMr3BLh1RFxSUf77JI4scvNV7U/JtVo0AxKAketBgu83ydkTWSncuSLzF6dgAgv3BYCxD39fvsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\muneer.pinjar\\source\\repos\\NLogDemo\\NLogDemo\\NLogDemo\\NLogDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\muneer.pinjar\\.nuget\\packages\\nlog\\4.7.15\\nlog.4.7.15.nupkg.sha512",
+    "C:\\Users\\muneer.pinjar\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\muneer.pinjar\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
   "logs": []
 }
